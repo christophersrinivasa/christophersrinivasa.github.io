@@ -1,0 +1,30 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\resheading{Education}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{itemize}
+\item
+	\ressubheading{University of Toronto}{Toronto, ON}{Ph.D. Electrical and Computer Engineering}{2012 -- present}
+	\begin{itemize}
+		\resitem{Specializations: Probabilistic Inference in Machine Learning, Combinatorial Optimization, Probabilistic Graphical Models, Operations Research, Social Networks, Vision, Computational Biology}
+		\resitem{Advisor: Brendan Frey}
+	\end{itemize}
+
+\item
+	\ressubheading{University of Ottawa}{Ottawa, ON}{M.A.Sc. Electrical and Computer Engineering}{2009 -- 2011}
+	\begin{itemize}
+		\resitem{Specializations: Signal Processing, Machine Learning, Audio Analysis and Compression}	
+		\resitem{Thesis: Graph Theory for the Discovery of Non-Parametric Audio Objects}	
+		\resitem{Advisor: Martin Bouchard}
+		%\resitem{Grade Point Average: 10.00/10.00}
+	\end{itemize}
+
+\item
+	\ressubheading{McGill University}{Montreal, QC}{B.Eng. Honours Electrical Engineering}{2005 -- 2009}
+	\begin{itemize}
+		\resitem{Specializations: Signal Processing, Automatic Speech Recognition}	
+		\resitem{Thesis: Network Implementation of A Software Based Speech Recognition System}	
+		\resitem{Advisor: Richard Rose}
+		\resitem{Grade Point Average: 3.78/4.00}
+		\resitem{Transferred over from Carleton University, Ottawa, ON after first year in B.Eng. Computer Systems Engineering program (2004 - 2005) where Grade Point Average was 11.40/12.00}			
+	\end{itemize}
+\end{itemize}

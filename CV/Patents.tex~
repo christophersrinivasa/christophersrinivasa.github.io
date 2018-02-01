@@ -1,0 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\resheading{Patents}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\refname}{}
+\nocite{PishehvarSCWpatent}
+%\nocite{PishehvarSOBpatent}
+\vspace*{-1.25cm}
+%\bibliographystyle{IEEEtran}
+\printbibliography[title={Patents},type=patent]
+\vspace*{-0.25cm}

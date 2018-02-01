@@ -1,0 +1,6 @@
+latex cv_temp.tex
+bibtex cv_temp
+latex cv_temp.tex
+latex cv_temp.tex
+dvips cv_temp.dvi -t letter -Ppdf -G0 -o cv_temp.ps
+ps2pdf cv_temp.ps cv_temp.pdf

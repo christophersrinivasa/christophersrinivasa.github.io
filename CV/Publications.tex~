@@ -1,0 +1,13 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\resheading{Publications and Patents}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\refname}{}
+\nocite{SrinivasaGTD}
+\nocite{SrinivasaIAM}
+\nocite{PichevarSOB}
+\nocite{PishehvarSCWpatent}
+\nocite{PishehvarSOBpatent}
+\vspace*{-1.25cm}
+\bibliographystyle{IEEEtran}
+\bibliography{/home/christopher/Drive/Toronto/Database/Database}
+\vspace*{-0.25cm}
