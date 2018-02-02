@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2017.8.27)  1 FEB 2018 20:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2017.8.27)  1 FEB 2018 20:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -284,15 +284,15 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (./TeachingExperience.tex) (./WorkExperience.tex) (./Honours.tex [2])
 (./Memberships.tex) (./Awards.tex) (./ScholarshipsAndBursaries.tex [3])
 (./Publications.tex (./CV.bbl)) (./TechnicalSkills.tex [4])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
  [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
  (./CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 92.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 92.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 93.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 92.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
  ) 
 Here is how much of TeX's memory you used:
  5648 strings out of 494954
@@ -303,4 +303,4 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  29i,10n,35p,904b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on CV.dvi (5 pages, 31408 bytes).
+Output written on CV.dvi (5 pages, 31476 bytes).
